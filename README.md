@@ -1,2 +1,2 @@
-# jaewoong.github.com
+# Jaewoong-Yoo.github.io
 For my Gitblog
