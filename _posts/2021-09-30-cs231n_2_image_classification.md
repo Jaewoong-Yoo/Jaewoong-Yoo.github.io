@@ -91,7 +91,7 @@ Q. test/validation set을 선정할 때 전체 데이터셋을 대표하지 못�
 - 따라서 모든 data는 동일한 분포를 따른다고 생각하고 진행
 
 
-### K-Nearest Neighbor이 image classification에서 사용되지 않는 이유
+### K-Nearest Neighbor가 image classification에서 사용되지 않는 이유
 
 - K-NN이 잘 동작하려면 image 전체 공간을 조밀하게 커버할 만큼의 충분한 트레이닝 샘플 필요   
 이렇게 공간을 조밀하게 덮기 위해서 데이터 양이 늘어나게 되고 차원이 증가함에 따라 데이터의 양은 기하급수적으로 늘어남 (Curse of Dimensionality)   
