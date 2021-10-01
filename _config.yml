@@ -105,11 +105,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "M.S. Student, Future Vehicle"
   location         : "Daejeon, Republic of Korea"
-  email            : 
+  email            : url: "jaewoong.yoo94@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "jaewoong.yoo94@gmail.com"
+      # url: "jaewoong.yoo94@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
