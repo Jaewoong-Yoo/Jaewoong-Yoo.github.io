@@ -1,7 +1,7 @@
-----
+---
 layout: single
 title: "RL Lecture 4. Model-Free Prediction"
-----
+---
 
 # Model-Free Prediction
 
