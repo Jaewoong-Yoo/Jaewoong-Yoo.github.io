@@ -1,3 +1,8 @@
+----
+layout: single
+title: "RL Lecture 4. Model-Free Prediction"
+----
+
 # Model-Free Prediction
 
 - 환경을 모를 때 (transition이나 reward 등 관련) model free prediction 문제를 푸는 방법을 배움
