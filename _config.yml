@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Jaewoong Yoo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Future Vehicle <br> Robotics <br> Autonomous System <br> Unmanned Aerial Vehicle"
+  bio              : "Future Vehicle <br> Robotics <br> Autonomous System <br> Unmanned Aerial Vehicle <br> Reinforcement Learning"
   location         : "Daejeon, Republic of Korea"
   email            : "jaewoong.yoo94@gmail.com"
   links:
