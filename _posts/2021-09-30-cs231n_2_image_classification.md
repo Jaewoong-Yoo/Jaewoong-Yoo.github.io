@@ -3,7 +3,7 @@ layout: single
 title:  "CS231n Lecture 2. Image Classification"
 ---
 
-
+# Image Classification
 
 
 ## Challenges in Image Classification
