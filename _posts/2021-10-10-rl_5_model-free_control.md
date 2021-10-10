@@ -5,7 +5,7 @@ typora-copy-images-to: ..\images\rl_lecture
 
 ---
 
-# Model-Free Control
+# 	Model-Free Control
 
 - On-Policy: 학습(최적화)하고자 하는 policy와 실제 환경에서 경험을 쌓는(behavior) policy가 같을 때
 - Off-Policy: ~ 다를 때.(다른 agent policy의 경험으로부터 배우는 방법)
@@ -94,5 +94,12 @@ $ $
 
 
 
-<img src="../images/rl_lecture/rl_5_DP_TD_relationship-16338774303211.jpg" alt="rl_5_DP_TD_relationship" style="zoom:50%;" />
 
+
+<img src="../images/rl_lecture/rl_5_DP_TD_relationship.jpg" alt="rl_5_DP_TD_relationship" style="zoom:50%;" />
+
+
+
+
+
+<img src="../images/rl_lecture/rl_5_DP_TD_relationship_2.jpg" alt="rl_5_DP_TD_relationship_2" style="zoom:50%;" />
