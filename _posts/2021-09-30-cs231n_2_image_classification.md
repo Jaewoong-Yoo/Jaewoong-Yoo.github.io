@@ -107,7 +107,7 @@ Q. test/validation set을 선정할 때 전체 데이터셋을 대표하지 못�
 - 모델의 가중치 파라미터 $W$를 학습하는 방법으로, Linear classifier는 **paramertric model**의 가장 단순한 형태
 - 가중치 행렬 $W$를 업데이트 하는 방식이므로, 기존의 K-NN보다 더욱 빠른 학습이 가능
 - Bias $b$는 특정 클래스에 대한 선호도를 나타내며, 데이터와는 독립적인 scaling offset로 데이터 불균형을 해소하는 역할로도 사용됨
-- $f(x, W) = Wx + b$ = class score
+- $ f(x, W) = Wx + b $ = class score
 
 ### Hard cases for a linear classifier
 
