@@ -69,7 +69,7 @@ typora-copy-images-to: ..\images\ml_study
 
 - But, 단순한 RNN은 역전파 알고리즘 기반 오랜시간 데이터 학습 시 **vanishing/exploding gradient problem** 발생 → 그래서 **LSTM **    
 
-*Elman, Jeffrey L. “Finding structure in time.” Cognitive science 14.2 (1990): 179-211.*
+*Elman, Jeffrey L. “Finding structure in time.” Cognitive science 14.2 (1990): 179-211.*    
 [Original Paper PDF ](https://crl.ucsd.edu/~elman/Papers/fsit.pdf)      
 
 
@@ -95,7 +95,7 @@ typora-copy-images-to: ..\images\ml_study
 
 - Output gate: 과거의 정보와 현재 데이터를 이용하여 뉴런의 출력을 결정    
 
-*Hochreiter, Sepp, and Jürgen Schmidhuber. “Long short-term memory.” Neural computation 9.8 (1997): 1735-1780.*
+*Hochreiter, Sepp, and Jürgen Schmidhuber. “Long short-term memory.” Neural computation 9.8 (1997): 1735-1780.*    
 [Original Paper PDF](https://www.bioinf.jku.at/publications/older/2604.pdf)     
 
 
@@ -114,7 +114,7 @@ typora-copy-images-to: ..\images\ml_study
   Latent representation: hidden layer에서 input을 잘 표현하기 위한 새로운 공간을 형성하므로 hidden layer의 출력은 latent representation으로 활용 가능
 - 딥러닝에서는 주로 Latent representation를 이용한 예측 성능 향상을 실험적으로 보여줌    
 
-*Bourlard, Hervé, and Yves Kamp. “Auto-association by multilayer perceptrons and singular value decomposition.” Biological cybernetics 59.4-5 (1988): 291-294.*
+*Bourlard, Hervé, and Yves Kamp. “Auto-association by multilayer perceptrons and singular value decomposition.” Biological cybernetics 59.4-5 (1988): 291-294.*    
 [Original Paper PDF](https://pdfs.semanticscholar.org/f582/1548720901c89b3b7481f7500d7cd64e99bd.pdf)     
 
 
@@ -146,7 +146,7 @@ typora-copy-images-to: ..\images\ml_study
 
 ​    
 
-*Kingma, Diederik P., and Max Welling. “Auto-encoding variational bayes.” arXiv preprint arXiv:1312.6114 (2013).*
+*Kingma, Diederik P., and Max Welling. “Auto-encoding variational bayes.” arXiv preprint arXiv:1312.6114 (2013).*    
 [Original Paper PDF](https://arxiv.org/pdf/1312.6114v10.pdf)     
 
 
@@ -180,7 +180,7 @@ typora-copy-images-to: ..\images\ml_study
 - 주로 CNN에 skip connection이 결합된 형태로 이용 → **ResNet**
 - ResNet은 다양한 이미지 처리 분야에서 뛰어난 성능 보임    
 
-*He, Kaiming, et al. “Deep residual learning for image recognition.” arXiv preprint arXiv:1512.03385 (2015).*
+*He, Kaiming, et al. “Deep residual learning for image recognition.” arXiv preprint arXiv:1512.03385 (2015).*    
 [Original Paper PDF](https://arxiv.org/pdf/1512.03385v1.pdf)      
 
 
@@ -200,7 +200,7 @@ typora-copy-images-to: ..\images\ml_study
 - **G**enerator와 **D**iscriminator라는 두 개의 인공신경망이 서로 경쟁하며 학습 진행
 - 이 과정을 계속 반복하면 **D**는 진짜와 가짜 데이터를 잘 구분, **G**는 더욱 진짜 같은 가짜를 만들겠지? → 경쟁을 통해 두 모델 성능이 모두 향상    
 
-*Goodfellow, Ian, et al. “Generative adversarial nets.” Advances in Neural Information Processing Systems (2014).*
+*Goodfellow, Ian, et al. “Generative adversarial nets.” Advances in Neural Information Processing Systems (2014).*    
 [Original Paper PDF](https://arxiv.org/pdf/1406.2661v1.pdf)     
 
 
@@ -233,7 +233,7 @@ typora-copy-images-to: ..\images\ml_study
     - 이 context vector를 디코더에 넣어서 output을 구하고 현재 디코더의 state값을 다시 인코더에 넣어서  위의 과정을 반복함
     - Query, key, value로의 설명은 [여기](https://wikidocs.net/22893)를 참고     
 
-*Jaderberg, Max, et al. “Spatial Transformer Networks.” In Advances in neural information processing systems (2015): 2017-2025.*
+*Jaderberg, Max, et al. “Spatial Transformer Networks.” In Advances in neural information processing systems (2015): 2017-2025.*    
 [Original Paper PDF](https://arxiv.org/pdf/1506.02025.pdf)      
 
 
