@@ -29,9 +29,9 @@ typora-copy-images-to: ..\images\ml_study
 10. **Graph Neural Network (GNN)**
 11. **Spiking Neural Network (SNN)**
 
-- 위에 나열한 대표적인 인공 신경망에 대해서 그 구조와 개념을 **간단히** 알아보자 
-  (수식 다 빼고 모든 개념은 5줄 이내로 설명해 할 것)
-  (이런 느낌이구나 정도로만 알고 가기)         
+- 위에 나열한 대표적인 인공 신경망에 대해서 그 구조와 개념을 **간단히** 알아보자     
+  (수식 다 빼고 모든 개념은 5줄 이내로 설명해 할 것)    
+  (이런 느낌이구나 정도로만 알고 가기)            
 
 
 
@@ -163,7 +163,7 @@ typora-copy-images-to: ..\images\ml_study
 - 입출력 부분 뉴런들이 느슨하게 연결 → DFN,RNN에 비해 학습 가중치가 적어 학습 및 예측이 빠르다는 장점
 - 이러한 장점으로 이미지뿐만 아니라 시계열 데이터에도 CNN을 적용하는 연구가 활발    
 
-*LeCun, Yann, et al. “Gradient-based learning applied to document recognition.” Proceedings of the IEEE 86.11 (1998): 2278-2324.*
+*LeCun, Yann, et al. “Gradient-based learning applied to document recognition.” Proceedings of the IEEE 86.11 (1998): 2278-2324.*    
 [Original Paper PDF](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)     
 
 
@@ -306,7 +306,9 @@ typora-copy-images-to: ..\images\ml_study
 
   ​	→ 아직까진 기존 인공신경망 사용 
 
-- 실제 인간의 뇌와 같은 SNN이 실현 가능하다면 asynchronous data를 가지는 이벤트 카메라와 같은 센서에서도 적용이 잘되지 않을까?
+- 실제 인간의 뇌와 같은 SNN이 실현 가능하다면 asynchronous data를 가지는 이벤트 카메라와 같은 센서에서도 적용이 잘되지 않을까?         
+
+​            
 
 
 
