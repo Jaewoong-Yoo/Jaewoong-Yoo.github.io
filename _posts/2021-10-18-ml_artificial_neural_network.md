@@ -233,7 +233,7 @@ typora-copy-images-to: ..\images\ml_study
     - 이 context vector를 디코더에 넣어서 output을 구하고 현재 디코더의 state값을 다시 인코더에 넣어서  위의 과정을 반복함
     - 실제 연산 과정 및 더 자세한 설명은 [여기](https://wikidocs.net/22893)를 참고     
     - 요즘  강화학습에  attention mechanism 을 적용하기 위해 찾은 몇 가지 논문
-      1. Parisotto, E., Song, F., Rae, J., Pascanu, R., Gulcehre, C., Jayakumar, S., Jaderberg, M., Kaufman, R. L., Clark, A., Noury, S., et al. Stabilizing transformers for reinforcement learning. In International Conference on Machine Learning, 2020. [Paper PDF](ht`tp://proceedings.mlr.press/v119/parisotto20a/parisotto20a.pdf)
+      1. Parisotto, E., Song, F., Rae, J., Pascanu, R., Gulcehre, C., Jayakumar, S., Jaderberg, M., Kaufman, R. L., Clark, A., Noury, S., et al. Stabilizing transformers for reinforcement learning. In International Conference on Machine Learning, 2020. [Paper PDF](http://proceedings.mlr.press/v119/parisotto20a/parisotto20a.pdf)
       2. Michael Janner, Qiyang Li, and Sergey Levine. 2021. Reinforcement Learning as One Big Sequence Modeling Problem. ArXiv abs/2106.02039 (2021). [Paper PDF](https://arxiv.org/pdf/2106.02039.pdf)
       3. Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, M. Laskin, P. Abbeel, A. Srinivas, and Igor Mordatch. 2021b. Decision Transformer: Reinforcement Learning via Sequence Modeling. ArXiv abs/2106.01345 (2021). [Paper PDF](https://arxiv.org/pdf/2106.01345.pdf)
 
